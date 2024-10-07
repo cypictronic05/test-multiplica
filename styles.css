@@ -46,16 +46,3 @@ button {
     margin-top: 20px;
 }
 
-footer
-{
-    padding: 24px;
-    color: var(--color-primario);
-    background-color: var(--color-terciario);
-    text-align: center;
-    font-family: var(--fuente-montserrat);
-    font-size: 1.25rem;
-    font-weight: 400;
-    width: 100%;
-    position: relative;
-    margin: 0%;
-}
